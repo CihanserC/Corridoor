@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d5ec56ea046b39c4e981c5ebf1507319
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger Shadow
+  fontNames:
+  - Avenger Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a5cecad0f94fe3d4cb87478acb1b96bb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

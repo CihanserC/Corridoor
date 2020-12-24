@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2726e7cc29e3b5b4aafcdcb4ab51af38
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger Italic
+  fontNames:
+  - Avenger Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0745a3f7a7edb794494c6b46d1d261a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

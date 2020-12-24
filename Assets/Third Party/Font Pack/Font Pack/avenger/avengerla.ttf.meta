@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3bdb7ad487755bc4592b19dd21effd9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger Laser
+  fontNames:
+  - Avenger Laser
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1d345f28cc6863543b5cba47ff6a2ee4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5f9426e2e6ba88546ad80b3144f9fe25
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger Leftalic
+  fontNames:
+  - Avenger Leftalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 28b0e58e8daa3f44a8f90c51e0c17013, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

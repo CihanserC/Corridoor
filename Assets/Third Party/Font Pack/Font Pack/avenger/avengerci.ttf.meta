@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 23fa0cacc1ba876498cfe021d80d4a7c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenger College Italic
+  fontNames:
+  - Avenger College Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 803ce78877ede8842953c56c4ecdb8e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

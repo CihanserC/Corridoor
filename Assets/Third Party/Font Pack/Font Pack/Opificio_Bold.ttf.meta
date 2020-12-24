@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c95ea6f3019242e48b4f7a0c9e6fbdee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Opificio
+  fontNames:
+  - Opificio
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0dc3c50018d4d341afea3731952cdb2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
